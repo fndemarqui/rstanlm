@@ -1,0 +1,6 @@
+.Rproj.user
+inst/stuff
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
